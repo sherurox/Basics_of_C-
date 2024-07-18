@@ -12,3 +12,4 @@ Follow the series in th below order :
 8.  Function Overloading
 9.  Classes, Public and Private access
 10. Objects Memory Allocation & using Arrays in Classes
+11. Static Data Members & Methods
