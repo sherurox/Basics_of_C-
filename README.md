@@ -13,3 +13,4 @@ Follow the series in th below order :
 9.  Classes, Public and Private access
 10. Objects Memory Allocation & using Arrays in Classes
 11. Static Data Members & Methods
+12. Array of Objects & Passing Objects as Function Arguments
