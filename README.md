@@ -14,3 +14,4 @@ Follow the series in th below order :
 10. Objects Memory Allocation & using Arrays in Classes
 11. Static Data Members & Methods
 12. Array of Objects & Passing Objects as Function Arguments
+13. Friend Functions
