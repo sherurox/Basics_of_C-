@@ -16,4 +16,4 @@ Follow the series in th below order :
 12. Array of Objects & Passing Objects as Function Arguments
 13. Friend Functions   
     -13.1 More on C++ Friend Functions
-    -13.2 Friend Classes & Member Friend Functions
+      -13.2 Friend Classes & Member Friend Functions
