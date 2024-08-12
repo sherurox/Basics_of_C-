@@ -23,3 +23,4 @@ Follow the series in th below order :
 -14.3 Dynamic Initialization of Objects Using Constructors
 -14.4 Copy Constructor
 15. Destructor
+16. Inheritance Syntax & Visibility Mode
