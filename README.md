@@ -24,3 +24,4 @@ Follow the series in th below order :
 -14.4 Copy Constructor
 15. Destructor
 16. Inheritance Syntax & Visibility Mode
+-16.1 Single Inheritance Deep Dive
