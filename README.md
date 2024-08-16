@@ -25,3 +25,4 @@ Follow the series in th below order :
 15. Destructor
 16. Inheritance Syntax & Visibility Mode
 -16.1 Single Inheritance Deep Dive
+-16.2 Multilevel Inheritance
