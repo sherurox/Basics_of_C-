@@ -27,3 +27,4 @@ Follow the series in th below order :
 -16.1 Single Inheritance Deep Dive
 -16.2 Multilevel Inheritance
 -16.3 Multiple Inheritance    
+-16.4 Ambiguity Resolution in Inheritance
