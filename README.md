@@ -32,3 +32,4 @@ Follow the series in th below order :
 18. Constructors indepth
 -18.1 Constructors in Derived Class
 -18.2 Initialization list in Constructors
+19. Pointers new and delete Keywords
