@@ -37,3 +37,4 @@ Follow the series in th below order :
 21. Array of Objects Using Pointers
 22. this Pointer
 23. Pointers to Derived Classes
+24. Virtual Functions
