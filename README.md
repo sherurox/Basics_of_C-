@@ -40,3 +40,4 @@ Follow the series in th below order :
 24. Virtual Functions
 -24.1 Virtual Functions Example + Creation Rules 
 25. Abstract Base Class & Pure Virtual Functions
+26. Templates
