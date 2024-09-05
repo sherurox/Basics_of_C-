@@ -42,3 +42,4 @@ Follow the series in th below order :
 25. Abstract Base Class & Pure Virtual Functions
 26. Templates
 -26.1 Class Templates with Default Parameters
+-26.2 Templates with Multiple Parameters
