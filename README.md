@@ -46,6 +46,6 @@ Follow the series in th below order :
 -26.3 Function Templates with Parameters
 -26.4 Member Function Templates & Overloading Template Functions
 
-##Advance Algorithms
+#Advance Algorithms
 
 1. Quicksort with randomization and Hoare partition
