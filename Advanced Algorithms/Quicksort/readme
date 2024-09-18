@@ -1,0 +1,9 @@
+This is the implementation of quicksort.  
+
+If there are two arguments on the command line, print out the total number of numbers in the range, and the numbers in that range. If there's no argument, print out the total number of numbers, then each number in order.
+
+A few key things that are in this implementation:
+
+1) Use of randomization, to pick a random pivot element. This prevents an input in already sorted order from triggering worst-case performance.
+
+2) Use of the Hoare partition, and not Lomuto. You'll have indices that move in from the left and right. This avoids worst-case performance when all the numbers in the input are equal value.
