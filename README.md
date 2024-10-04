@@ -49,4 +49,5 @@ Follow the series in th below order :
 #Advance Algorithms
 
 1. Quicksort with randomization and Hoare partition
-2. Prims Algorithm
+2. Prims Algo
+3. 
